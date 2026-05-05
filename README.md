@@ -1,2 +1,4 @@
 # Uruguay_Water_Availability
 ArcGIS Pro Project to create a web map of the country of Uruguay, to analyze the water availability in the soil.
+
+This project’s core accomplishment was the large-scale geospatial data wrangling required to synthesize Uruguay’s fragmented environmental landscape into a unified analytical model for the first time. Over three months, I acquired, merged, and processed five massive public datasets spanning water availability, elevation, forest cover, waterways, and historical forest fires. The most significant technical hurdle was merging 495 individual files totaling over 2 GB of raw data to create a single, seamless national elevation layer, which served as the foundational canvas. This was integrated with the other nationwide datasets using a suite of advanced GIS statistical and spatial analysis tools to model the complex interactions between variables like topography, water accumulation, and land cover.
